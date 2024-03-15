@@ -1,0 +1,25 @@
+{
+  "name": "music-link-converter-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "dev": "nodemon src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkhotsevich/music-link-converter-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkhotsevich/music-link-converter-bot/issues"
+  },
+  "homepage": "https://github.com/mkhotsevich/music-link-converter-bot#readme",
+  "dependencies": {
+    "nodemon": "^3.1.0",
+    "ts-node": "^10.9.2"
+  }
+}
